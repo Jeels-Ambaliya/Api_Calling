@@ -21,6 +21,3 @@ samples, guidance on mobile development, and a full API reference.
 <img src = "https://user-images.githubusercontent.com/123535768/222378804-2315c4aa-a883-493d-9bea-66d750460e19.gif" width = "200px">
 
 
-
-
-## Screenshots
