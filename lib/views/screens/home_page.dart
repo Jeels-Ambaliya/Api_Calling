@@ -73,10 +73,6 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
               ),
-              //
-              const SizedBox(
-                child: Text("Hello"),
-              ),
             ],
           ),
         ),
